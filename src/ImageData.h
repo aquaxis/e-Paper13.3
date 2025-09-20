@@ -34,7 +34,7 @@
 
 extern unsigned char Image6color[];
 
-extern int loadpng(const char *filename);
+extern int loadbmp(const char *filename);
 
 #endif
 /* FILE END */
